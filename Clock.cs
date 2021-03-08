@@ -10,6 +10,7 @@ namespace classPro{
                 if(OnsecondChange !=null){
                     
                 OnsecondChange(this,new TimeEventArgs(DateTime.Now));
+                // Hiii Hai Quy
                 }
 
             }
